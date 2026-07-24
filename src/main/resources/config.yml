@@ -1,4 +1,6 @@
+# ==========================================
 # Configuración de Aanon Identity
+# ==========================================
+# Genera tu clave única interactuando con el bot de Discord.
+
 plugin_key: 'PON_TU_CLAVE_AQUI'
-supabase_url: 'https://TU_PROYECTO.supabase.co'
-supabase_key: 'TU_SERVICE_ROLE_KEY'
