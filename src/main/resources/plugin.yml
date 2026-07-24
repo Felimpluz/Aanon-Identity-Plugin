@@ -1,0 +1,5 @@
+name: AanonIdentity
+version: 1.0.0
+main: com.aanon.identity.AanonIdentity
+api-version: '1.21'
+description: Plugin de validación para servidores.
